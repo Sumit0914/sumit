@@ -1,4 +1,5 @@
 from turtle import *
+
 speed("slowest")
 
 fd(100)
